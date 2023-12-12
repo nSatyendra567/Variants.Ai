@@ -2,9 +2,9 @@
 # Build a SaaS AI Variants with Next.js 13, React, Tailwind, Prisma, Stripe, MySql
 
 • Full Stack Software as a Service AI Platform where you will be create and talk to amazing characters like Jeff
-  bezos (founder of Amazon), Steve Jobs (founder of Apple)
-• Accounts can be created and manged. 2 types of accounts basic and pro.
-• Operations like deposite and withdrawal can be performed in the account
+  bezos (founder of Amazon), Steve Jobs (founder of Apple)<br>
+• Accounts can be created and manged. 2 types of accounts basic and pro.<br>
+• Operations like deposite and withdrawal can be performed in the account<br>
 • Clerk Authentication (Email, Google, 9+ Social Logins)
 
 Features:

@@ -122,7 +122,10 @@ export async function POST(
     var Readable = require("stream").Readable;
 
     let s = new Readable();
-    s.push(response);
+    chunks.forEach(dtaa => {
+      
+      s.push(dtaa);
+    });
     s.push(null);
     
     if (response !== undefined && response.length > 1) {
